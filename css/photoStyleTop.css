@@ -1,0 +1,45 @@
+.topImageHeader {
+	
+	 height:auto;
+	 background: url('../images/fond/fondEquipe.jpeg') no-repeat center;
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+	  min-height: 150px;
+}
+
+.degradedBlack {
+	/*height: 150px;*/
+	width: 100%;
+	text-align: center;
+	/*background-image: -webkit-linear-gradient(rgba(0,0,0, 0.0) ,rgba(0,0,0, 0.6));
+  	background-image:      -o-linear-gradient(rgba(0,0,0, 0.0) ,rgba(0,0,0, 0.6));
+    background-image:         linear-gradient(rgba(0,0,0, 0.0) ,rgba(0,0,0, 0.6));*/
+    /*background-color: rgba(3,104,225,0.4);*/
+    position: relative;
+
+}
+.bottomText{
+	
+	padding-top: 50px;
+	padding-bottom: 20px;
+	position:absolute;
+    width:100%;
+    /*bottom:0;*/
+    text-align:center;
+
+}
+.bottomText h1 {
+	font-weight: 100;
+	color: white;
+	font-size: 70px;
+}
+.bottomText h2 {
+	color: rgba(0,0,0,1);
+	font-size: 30px;
+}
+
+#titleAlbum {
+	color: #096BB2;
+}

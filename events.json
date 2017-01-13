@@ -1,0 +1,30 @@
+{
+	"events": [
+		{
+			"title" : "Course de Rimouski",
+			"location" : "À Rimouski",
+			"adresse" : "1564, Marina de Saint-Pier",
+			"jour" : "31",
+			"mois" : "mars",
+			"heure" : "12:30"
+		},
+		{
+			"title" : "Course de Rimouski1",
+			"location" : "À Rimouski2",
+			"adresse" : "1564, Marina de Saint-Pier",
+			"jour" : "31",
+			"mois" : "mars",
+			"heure" : "12:30"
+		},
+		{
+			"title" : "Course de Rimouski2",
+			"location" : "À Rimouski2",
+			"adresse" : "1564, Marina de Saint-Pier",
+			"jour" : "31",
+			"mois" : "mars",
+			"heure" : "12:30"
+		}
+
+	]}
+
+}

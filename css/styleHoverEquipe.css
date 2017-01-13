@@ -1,0 +1,137 @@
+
+.imgTeam {
+	background: url("../images/fond/team.jpg") no-repeat center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  max-width: 800px;
+ padding-right: 0px;
+ margin-right: 0px;
+ padding-left: 0px;
+ margin-left: 0px;
+}
+
+
+
+
+.spanNameRole {
+	font-size: 20px;
+}
+.nomIn {
+	font-weight: bold;
+}
+.typeIn{
+	font-style: italic;
+}
+
+.textOverMember {
+	z-index: 0;
+	visibility: hidden;
+	position: absolute;
+	top:0;
+	margin-left:200px;
+	margin-top: 200px;
+	padding-top: 70px;
+	width: 0px;
+	text-align: center;
+	height: 0px;
+	/*background-color: rgba(0,0,0,0.0);*/
+	-webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+
+    border-radius: 10px;
+}
+.team-Member {
+	/*background-color: red;*/
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 50px;
+	padding-top: 50px;
+	height: auto;
+	/*min-height: 400px;*/
+	/*overflow: hidden;*/
+}
+.equipePhoto {
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	-webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.textnamehere {
+	position: relative ;
+	z-index: 3;
+	margin-bottom: 0px;
+	/*background-color: red;*/
+	-webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.blockPhoto {
+	width: 80%;
+	/*overflow: hidden;*/
+	overflow: visible;
+
+
+}
+.textMemberP {
+	padding-top: 60px;
+	margin-left: 20px;
+	margin-right: 10px;
+	/*visibility: hidden;*/
+	/*-webkit-animation-delay: 5s;*/
+	opacity: 0.0;
+	
+	-webkit-transition: opacity 0.05s ease-in-out;
+    -moz-transition: opacity 0.05s ease-in-out;
+    transition: opacity 0.05s ease-in-out;
+   
+}
+
+.team-Member:hover .equipePhoto{
+  /* position: relative;*/
+/*	top: 0%;
+	left: 50%;*/
+	-webkit-transform: translateY(-50%) scale(0.4);
+    -moz-transform: translateY(-50%) scale(0.4);
+    -o-transform: translateY(-50%) scale(0.4);
+    transform: translateY(-50%) scale(0.4);
+   
+}
+.team-Member:hover .textnamehere{
+	opacity: 0.0;
+	
+}
+.team-Member:hover .textMemberP{
+
+	/*visibility: visible;*/
+    opacity: 1.0;
+    -webkit-transition-delay: 0.3s; 
+    transition-delay: 0.3s;
+	
+}
+
+.team-Member:hover .textOverMember{
+
+	visibility: visible;
+	width: 80%;
+	height: auto;
+	margin-left: 10%;
+	margin-top: 0px;
+
+	 -webkit-transform-origin: center center;
+    -moz-transform-origin: center center;
+    -o-transform-origin: center center;
+    transform-origin: center center;
+}

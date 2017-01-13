@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dessin.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5587">
+      <stop
+         style="stop-color:#9adfff;stop-opacity:1"
+         offset="0"
+         id="stop5589" />
+      <stop
+         style="stop-color:#5571ff;stop-opacity:1"
+         offset="1"
+         id="stop5591" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5587"
+       id="linearGradient5593"
+       x1="-3221.0002"
+       y1="2678.0764"
+       x2="-2440.4287"
+       y2="2872.3621"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99459432,0,0,0.97160002,-1147.9191,-563.991)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5937">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5939"
+         width="301.02545"
+         height="147.48227"
+         x="-2808.2239"
+         y="3282.7791" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5954">
+      <rect
+         ry="0"
+         y="1473.2313"
+         x="-2751.2356"
+         height="421.69055"
+         width="1068.4552"
+         id="rect5956"
+         style="opacity:0.503;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-2333.8576"
+     inkscape:cy="-501.14615"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="2447"
+     inkscape:window-height="1291"
+     inkscape:window-x="66"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5976"
+       width="387.14285"
+       height="268.57141"
+       x="-5316.0859"
+       y="1723.7908"
+       inkscape:export-xdpi="116.24"
+       inkscape:export-ydpi="116.24" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5931"
+       width="875.24298"
+       height="344.224"
+       x="-4440.8794"
+       y="2308.9231"
+       inkscape:export-xdpi="51.299999"
+       inkscape:export-ydpi="51.299999" />
+    <rect
+       y="1921.4362"
+       x="-4441.4473"
+       height="344.224"
+       width="875.24298"
+       id="rect5529"
+       style="opacity:1;fill:url(#linearGradient5593);fill-opacity:1;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="51.299999"
+       inkscape:export-ydpi="51.299999" />
+    <image
+       sodipodi:absref="/Users/Edward/Documents/Design/Site Web GPAAvocat/images/fond/canot.jpg"
+       y="1334.9336"
+       x="-2822.8572"
+       id="image5270"
+       xlink:href="file:///Users/Edward/Documents/Design/Site%20Web%20GPAAvocat/images/fond/canot.jpg"
+       preserveAspectRatio="none"
+       height="1012"
+       width="1800"
+       clip-path="url(#clipPath5954)"
+       transform="matrix(0.82103874,0,0,0.82103874,-2183.5762,308.39106)"
+       inkscape:export-xdpi="51.299999"
+       inkscape:export-ydpi="51.299999" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136"
+       width="942.85712"
+       height="1637.1428"
+       x="-1611.4286"
+       y="1118.0765" />
+    <rect
+       y="-1115.8374"
+       x="-2893.449"
+       height="196.35112"
+       width="942.85712"
+       id="rect4138"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(1,-1)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5279"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(3.5389456,0,0,3.5389456,6693.6084,-3736.4249)"><flowRegion
+         id="flowRegion5281"><rect
+           id="rect5283"
+           width="1103.0865"
+           height="573.76666"
+           x="-3125.4119"
+           y="1327.1237"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara5285"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display';text-align:center;text-anchor:middle">Équipe canot à glace Fromagerie Victoria </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display';text-align:center;text-anchor:middle"
+         id="flowPara5287">Toyota Levis 96.9</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5289"
+       width="942.85712"
+       height="83.64888"
+       x="-2893.449"
+       y="1115.8374" />
+    <flowRoot
+       transform="matrix(3.2702859,0,0,3.2702859,5640.4108,-3211.0334)"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#316293;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5295"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5297"><rect
+           style="text-align:center;text-anchor:middle;fill:#316293;fill-opacity:1"
+           y="1327.1237"
+           x="-3125.4119"
+           height="573.76666"
+           width="1103.0865"
+           id="rect5299" /></flowRegion><flowPara
+         id="flowPara5303"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display';text-align:center;text-anchor:middle;fill:#316293;fill-opacity:1">Équipe</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5307"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:46.22240829px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#316293;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.97282754,0,0,0.97282754,-1360.0796,-890.54481)"><flowRegion
+         id="flowRegion5309"><rect
+           id="rect5311"
+           width="3708.1685"
+           height="1928.791"
+           x="-3018.3367"
+           y="2077.4236"
+           style="text-align:center;text-anchor:middle;fill:#316293;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display';text-align:center;text-anchor:middle;fill:#316293;fill-opacity:1"
+         id="flowPara5313">Évènements</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:46.22240829px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#316293;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5315"
+       xml:space="preserve"
+       transform="matrix(0.97282754,0,0,0.97282754,-1002.64,-891.93455)"><flowRegion
+         id="flowRegion5317"><rect
+           style="text-align:center;text-anchor:middle;fill:#316293;fill-opacity:1"
+           y="2077.4236"
+           x="-3018.3367"
+           height="1928.791"
+           width="3708.1685"
+           id="rect5319" /></flowRegion><flowPara
+         id="flowPara5321"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display';text-align:center;text-anchor:middle;fill:#316293;fill-opacity:1">Commanditaires</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5323"
+       width="942.85712"
+       height="326.9079"
+       x="-1615.4692"
+       y="2422.5032" />
+    <rect
+       y="-1115.8374"
+       x="-2893.449"
+       height="2.0654056"
+       width="942.85712"
+       id="rect5337"
+       style="opacity:1;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(1,-1)" />
+    <rect
+       y="-921.83734"
+       x="-2892.0203"
+       height="3.4939771"
+       width="942.85712"
+       id="rect5341"
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(1,-1)" />
+    <flowRoot
+       transform="matrix(2.1261979,0,0,2.1261979,4344.3259,-391.64253)"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5345"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5347"><rect
+           style="text-align:center;text-anchor:middle;fill:#999999"
+           y="1327.1237"
+           x="-3125.4119"
+           height="573.76666"
+           width="1103.0865"
+           id="rect5349" /></flowRegion><flowPara
+         id="flowPara5353"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display';text-align:center;text-anchor:middle;fill:#999999">COMMANDITAIRES</flowPara></flowRoot>    <circle
+       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5357"
+       cx="-1140.4623"
+       cy="2750.4287"
+       r="215.16249" />
+    <rect
+       y="-3089.2039"
+       x="-1615.4692"
+       height="333.73187"
+       width="942.85712"
+       id="rect5343"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(1,-1)" />
+    <flowRoot
+       transform="matrix(5.3373785,0,0,5.3373785,13414.761,-5632.0568)"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5367"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5369"><rect
+           style="text-align:center;text-anchor:middle"
+           y="1327.1237"
+           x="-3125.4119"
+           height="127.30606"
+           width="156.88058"
+           id="rect5371" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display';text-align:center;text-anchor:middle"
+         id="flowPara5373">Équipe canot à glace Fromagerie Victoria </flowPara><flowPara
+         id="flowPara5375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display';text-align:center;text-anchor:middle">Toyota Levis 96.9</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5379"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(6.1727306,0,0,6.1727306,11618.906,-6556.5474)"
+       inkscape:export-xdpi="51.299999"
+       inkscape:export-ydpi="51.299999"><flowRegion
+         id="flowRegion5381"><rect
+           id="rect5383"
+           width="1103.0865"
+           height="573.76666"
+           x="-3125.4119"
+           y="1327.1237"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara5385">Équipe</flowPara></flowRoot>    <rect
+       ry="0"
+       y="1264.0593"
+       x="-703.34235"
+       height="329.30972"
+       width="834.38599"
+       id="rect5387"
+       style="opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="1378.0765"
+       x="-3334.2856"
+       height="1637.1428"
+       width="942.85712"
+       id="rect5365"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5531"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:72.33359528px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="translate(1518.641,-590.86793)"
+       inkscape:export-xdpi="51.299999"
+       inkscape:export-ydpi="51.299999"><flowRegion
+         id="flowRegion5533"><rect
+           id="rect5535"
+           width="5802.9248"
+           height="3018.3713"
+           x="-5920.4609"
+           y="2591.5986"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;"
+         id="flowPara5537">Calendrier des</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;"
+         id="flowPara5630">courses</flowPara></flowRoot>    <g
+       id="g5958">
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:14.96722126;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -3837.2199,1995.8282 0,226.4589 225.961,0 0,-226.4589 -225.961,0 z m 11.1953,11.4433 203.5704,0 0,203.5723 -203.5704,0 0,-203.5723 z"
+         id="rect5539"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="51.299999"
+         inkscape:export-ydpi="51.299999" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5543"
+         width="13.347813"
+         height="59.242207"
+         x="-3686.2913"
+         y="1965.2515"
+         inkscape:export-xdpi="51.299999"
+         inkscape:export-ydpi="51.299999" />
+      <rect
+         y="1965.2515"
+         x="-3731.2925"
+         height="59.242207"
+         width="13.347813"
+         id="rect5545"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="51.299999"
+         inkscape:export-ydpi="51.299999" />
+      <rect
+         y="1965.2515"
+         x="-3776.2939"
+         height="59.242207"
+         width="13.347813"
+         id="rect5549"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="51.299999"
+         inkscape:export-ydpi="51.299999" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5551"
+         width="13.347813"
+         height="59.242207"
+         x="-3821.2949"
+         y="1965.2515"
+         inkscape:export-xdpi="51.299999"
+         inkscape:export-ydpi="51.299999" />
+      <rect
+         y="1965.2515"
+         x="-3641.2903"
+         height="59.242207"
+         width="13.347813"
+         id="rect5553"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="51.299999"
+         inkscape:export-ydpi="51.299999" />
+      <flowRoot
+         transform="matrix(10.554168,0,0,10.577462,23442.123,-12036.057)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         id="flowRoot5555"
+         xml:space="preserve"
+         inkscape:export-xdpi="51.299999"
+         inkscape:export-ydpi="51.299999"><flowRegion
+           id="flowRegion5557"><rect
+             style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;"
+             y="1327.1237"
+             x="-3125.4119"
+             height="573.76666"
+             width="1103.0865"
+             id="rect5559" /></flowRegion><flowPara
+           id="flowPara5561"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;">23</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5563"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         transform="matrix(2.5279533,0,0,2.5335328,2779.8613,-1199.5276)"
+         inkscape:export-xdpi="51.299999"
+         inkscape:export-ydpi="51.299999"><flowRegion
+           id="flowRegion5565"><rect
+             id="rect5567"
+             width="1103.0865"
+             height="573.76666"
+             x="-3125.4119"
+             y="1327.1237"
+             style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;"
+           id="flowPara5569">JANVIER</flowPara></flowRoot>    </g>
+    <image
+       sodipodi:absref="/Users/Edward/Documents/Design/Site Web GPAAvocat/images/logo/victoria.jpg"
+       y="2428.6279"
+       x="-4425.1147"
+       id="image5710"
+       xlink:href="file:///Users/Edward/Documents/Design/Site%20Web%20GPAAvocat/images/logo/victoria.jpg"
+       preserveAspectRatio="none"
+       height="219.74791"
+       width="266.02518"
+       inkscape:export-xdpi="51.299999"
+       inkscape:export-ydpi="51.299999" />
+    <image
+       sodipodi:absref="/Users/Edward/Documents/Design/Site Web GPAAvocat/images/logo/levis969.png"
+       y="2316.3689"
+       x="-3760.9253"
+       id="image5772"
+       xlink:href="file:///Users/Edward/Documents/Design/Site%20Web%20GPAAvocat/images/logo/levis969.png"
+       preserveAspectRatio="none"
+       height="157.86998"
+       width="177.37515"
+       inkscape:export-xdpi="51.299999"
+       inkscape:export-ydpi="51.299999" />
+    <image
+       sodipodi:absref="/Users/Edward/Documents/Design/Site Web GPAAvocat/images/logo/toyota.png"
+       y="2487.3979"
+       x="-4136.6069"
+       id="image5866"
+       xlink:href="file:///Users/Edward/Documents/Design/Site%20Web%20GPAAvocat/images/logo/toyota.png"
+       preserveAspectRatio="none"
+       height="132.41678"
+       width="331.04199"
+       inkscape:export-xdpi="51.299999"
+       inkscape:export-ydpi="51.299999" />
+    <image
+       sodipodi:absref="/Users/Edward/Documents/Design/Site Web GPAAvocat/images/logo/wasper.png"
+       y="3339.6663"
+       x="-2741.8713"
+       id="image5928"
+       xlink:href="file:///Users/Edward/Documents/Design/Site%20Web%20GPAAvocat/images/logo/wasper.png"
+       preserveAspectRatio="none"
+       height="163.65692"
+       width="166.0202"
+       style="stroke:none"
+       clip-path="url(#clipPath5937)"
+       transform="matrix(1.2809822,0,0,1.2809822,-271.13205,-1789.4554)"
+       inkscape:export-xdpi="51.299999"
+       inkscape:export-ydpi="51.299999" />
+    <flowRoot
+       transform="translate(1518.0406,-259.25171)"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:72.33359528px;line-height:125%;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5941"
+       xml:space="preserve"
+       inkscape:export-xdpi="51.299999"
+       inkscape:export-ydpi="51.299999"><flowRegion
+         id="flowRegion5943"><rect
+           style="text-align:center;text-anchor:middle;fill:#4d4d4d;fill-opacity:1"
+           y="2591.5986"
+           x="-5920.4609"
+           height="3018.3713"
+           width="5802.9248"
+           id="rect5945" /></flowRegion><flowPara
+         id="flowPara5949"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1">Commanditaires</flowPara></flowRoot>    <image
+       inkscape:export-ydpi="116.24"
+       inkscape:export-xdpi="116.24"
+       width="331.04199"
+       height="132.41678"
+       preserveAspectRatio="none"
+       xlink:href="file:///Users/Edward/Documents/Design/Site%20Web%20GPAAvocat/images/logo/toyota.png"
+       id="image5974"
+       x="-5288.0356"
+       y="1783.1122"
+       sodipodi:absref="/Users/Edward/Documents/Design/Site Web GPAAvocat/images/logo/toyota.png" />
+  </g>
+</svg>
