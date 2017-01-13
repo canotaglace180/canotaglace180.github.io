@@ -455,9 +455,10 @@ a:hover  {
 
 a .nextEventMiddle {
 	color: black;
-	border-width: 1px;
-	border-color: #CCCCCC;
-	border-style: solid;
+	/*border-width: 1px;*/
+	/*border-color: #CCCCCC;*/
+	/*border-style: solid;*/
+	box-shadow: 0px 0px 20px #CCCCCC;
 }
 a:hover .nextEventMiddle {
 	color: #147ECC;
