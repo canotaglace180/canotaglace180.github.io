@@ -406,7 +406,92 @@ list-style-type: none;
 
 
 .caroussel-responsive {
+	height: 400px;
+}
+
+.img1 {
+	width: 533px;
+}
+.img2 {
+	width: 600px;
+}
+.img3 {
+	width: 724px;
+}
+.img4 {
+	width: 599px;
+}
+.img5 {
+	width: 471px;
+}
+.img6 {
+	width: 246px;
+}
+
+
+.img1 img {
+	height: 400px;
+}
+.img2 img {
+	height: 400px;
+}
+.img3 img {
+	height: 400px;
+}
+.img4 img {
+	height: 400px;
+}
+.img5 img {
+	height: 400px;
+}
+.img6 img {
+	height: 400px;
+}
+
+@media (max-width: 768px){
+	.caroussel-responsive {
+		height: 200px;
+	}
+	.img1 {
+		width: 266px;
+	}
+	.img2 {
+		width: 300px;
+	}
+	.img3 {
+		width: 362px;
+	}
+	.img4 {
+		width: 300px;
+	}
+	.img5 {
+		width: 235px;
+	}
+	.img6 {
+		width: 123px;
+	}
+
+	.img1 img {
+		height: 200px;
+	}
+	.img2 img {
+		height: 200px;
+	}
+	.img3 img {
+		height: 200px;
+	}
+	.img4 img {
+		height: 200px;
+	}
+	.img5 img {
+		height: 200px;
+	}
+	.img6 img {
+		height: 200px;
+	}
+
 	
+
 }
 
 
