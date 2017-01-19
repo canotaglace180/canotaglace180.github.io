@@ -87,8 +87,8 @@
 }
 .textMemberP {
 	padding-top: 60px;
-	margin-left: 20px;
-	margin-right: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
 	/*visibility: hidden;*/
 	/*-webkit-animation-delay: 5s;*/
 	opacity: 0.0;
