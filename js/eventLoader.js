@@ -18,7 +18,7 @@ var jsons = [
 			"jour" : "28",
 			"mois" : "janvier",
 			"mois_id" : "01",
-			"heure" : "11:30",
+			"heure" : "13:30",
 			"url_facebook" : "https://www.facebook.com/Rikifestival/",
 			"url_photos" : "#",
 			"url_web" : "http://www.rikifest.com"
