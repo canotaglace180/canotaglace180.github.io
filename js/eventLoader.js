@@ -30,7 +30,7 @@ var jsons = [
 			"jour" : "05",
 			"mois" : "février",
 			"mois_id" : "02",
-			"heure" : "13:00",
+			"heure" : "12:30",
 			"url_facebook" : "https://www.facebook.com/carnavaldequebec",
 			"url_photos" : "#",
 			"url_web" : "https://carnaval.qc.ca"
